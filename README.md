@@ -9,8 +9,8 @@ Here are the links to individual documentation repositories:
 - [Gate.io API Documentation](https://github.com/suenot/gateio-docs-markdown)
 - [MEXC API Documentation](https://github.com/suenot/mexc-docs-markdown)
 - [Bitget API Documentation](https://github.com/suenot/bitget-docs-markdown)
+- [Bybit API Documentation](https://github.com/suenot/bybit-docs-markdown)
 - [OKX API Documentation](https://github.com/suenot/okx-docs-markdown) [COMING SOON]
-- [Bybit API Documentation](https://github.com/suenot/bybit-docs-markdown) [COMING SOON]
 - [Binance API Documentation](https://github.com/suenot/binance-docs-markdown) [COMING SOON]
 
 ## Purpose
