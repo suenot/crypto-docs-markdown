@@ -10,7 +10,7 @@ Here are the links to individual documentation repositories:
 - [MEXC API Documentation](https://github.com/suenot/mexc-docs-markdown)
 - [Bitget API Documentation](https://github.com/suenot/bitget-docs-markdown)
 - [Bybit API Documentation](https://github.com/suenot/bybit-docs-markdown)
-- [OKX API Documentation](https://github.com/suenot/okx-docs-markdown) [COMING SOON]
+- [OKX API Documentation](https://github.com/suenot/okx-docs-markdown)
 - [Binance API Documentation](https://github.com/suenot/binance-docs-markdown) [COMING SOON]
 
 ## Purpose
