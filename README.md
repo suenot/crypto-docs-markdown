@@ -11,7 +11,7 @@ Here are the links to individual documentation repositories:
 - [Bitget API Documentation](https://github.com/suenot/bitget-docs-markdown)
 - [Bybit API Documentation](https://github.com/suenot/bybit-docs-markdown)
 - [OKX API Documentation](https://github.com/suenot/okx-docs-markdown)
-- [Binance API Documentation](https://github.com/suenot/binance-docs-markdown) [COMING SOON]
+- [Binance API Documentation](https://github.com/suenot/binance-docs-markdown)
 
 ## Purpose
 
